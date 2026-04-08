@@ -18,7 +18,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Scrum Master: facilitates Agile ceremonies, removes impediments, coaches the team.
+- Business Analyst (BA): elicits and documents requirements, bridges stakeholders and delivery team.
+- UX Designer: owns user research, interaction design, and design handoff to Developers.
+- Technical Writer: owns documentation, user guides, and release notes.
+- DevOps Engineer: maintains CI/CD pipelines, environments, and deployment coordination.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles and Personas](./octoacme-roles-and-personas.md) for full descriptions, responsibilities, and interaction patterns. Use the [Role Interaction Matrix](./octoacme-role-interaction-matrix.md) to understand cross-role handoffs, and the [Role Assignment Checklist](./octoacme-role-assignment-checklist.md) to confirm ownership at project start.
 
 ## Key Artifacts
 - Project Charter / One-pager
